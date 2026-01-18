@@ -9,6 +9,7 @@ This project involved the **full redesign and redevelopment** of the existing we
 **Role:** Frontend Developer & UX Designer  
 **Scope:** UX design, UI design, frontend development, content architecture, performance optimization
 
+
 > **Note:**  
 > The source code is not publicly available due to client ownership and security reasons.  
 > This repository documents the **decision-making process, architecture, and outcomes** of a real-world project.
