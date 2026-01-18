@@ -125,6 +125,18 @@ For interactive sections such as carousels and highlighted services on the homep
 
 The goal was to enhance clarity and navigation without introducing unnecessary complexity or accessibility issues.
 
+### Layout & Information Structure
+
+Some sections were designed using a “soft bento-style” layout to present information in a structured, readable, and responsive-friendly way.
+
+This approach helped to:
+- Group related information into clearly defined blocks
+- Improve visual hierarchy and scanning for non-technical users
+- Ensure predictable behavior across different screen sizes
+- Maintain flexibility as content grows over time
+
+The layout system was intentionally kept simple and consistent, prioritizing clarity and usability over visual experimentation.
+
 ---
 
 ## Data Architecture & Content Modeling
