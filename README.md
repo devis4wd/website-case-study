@@ -24,6 +24,8 @@ At the start of the project, VMedica had:
 
 The existing website was not aligned with the business evolution and was limiting future growth.
 
+![Legacy homepage](assets/vmedica-homepage-full-legacy.jpg)
+
 ---
 
 ## Project Goals
@@ -137,6 +139,8 @@ This approach helped to:
 
 The layout system was intentionally kept simple and consistent, prioritizing clarity and usability over visual experimentation.
 
+![Soft bento-style information layout](assets/vmedica-bento-info-detail-new.jpg)
+
 ---
 
 ## Data Architecture & Content Modeling
@@ -173,6 +177,9 @@ This project was designed with long-term sustainability in mind, balancing visib
 - Scalable structure for future services and locations
 
 ### Performance
+
+![Lighthouse performance audit](assets/vmedica-performance-new.jpg)
+
 - Optimized media handling with custom image sizes
 - Self-hosted fonts to reduce external dependencies
 - Clean, semantic markup
@@ -180,8 +187,6 @@ This project was designed with long-term sustainability in mind, balancing visib
 - Stable layout to avoid cumulative layout shifts
 
 Lighthouse audits were used as a validation tool rather than a strict target.
-
-![Lighthouse performance audit](assets/performance-lighthouse-desktop.jpg)
 
 ### Maintainability
 - Minimal plugin dependency
@@ -204,9 +209,9 @@ The final result is a scalable, high-performance website aligned with the clinic
 - Maintainable system usable by internal staff
 - Designed to add new offices in the future without requiring major backend upgrades 
 
-🔗 **Live website:** [https://vmedica.it]
+**Live website:** [https://vmedica.it]
 
-📸 **Screenshots:** Before / After (desktop and mobile)
+![New homepage](assets/vmedica-homepage-full-new.jpg)
 
 ---
 
